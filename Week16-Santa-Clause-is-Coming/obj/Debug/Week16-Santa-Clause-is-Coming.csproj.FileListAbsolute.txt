@@ -1,0 +1,10 @@
+C:\Users\opilane\source\repos\LogItPe21\Week16-Santa-Clause-is-Coming\Week16-Santa-Clause-is-Coming\bin\Debug\Week16-Santa-Clause-is-Coming.exe.config
+C:\Users\opilane\source\repos\LogItPe21\Week16-Santa-Clause-is-Coming\Week16-Santa-Clause-is-Coming\bin\Debug\Week16-Santa-Clause-is-Coming.exe
+C:\Users\opilane\source\repos\LogItPe21\Week16-Santa-Clause-is-Coming\Week16-Santa-Clause-is-Coming\bin\Debug\Week16-Santa-Clause-is-Coming.pdb
+C:\Users\opilane\source\repos\LogItPe21\Week16-Santa-Clause-is-Coming\Week16-Santa-Clause-is-Coming\obj\Debug\Week16-Santa-Clause-is-Coming.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\LogItPe21\Week16-Santa-Clause-is-Coming\Week16-Santa-Clause-is-Coming\obj\Debug\Week16_Santa_Clause_is_Coming.Form1.resources
+C:\Users\opilane\source\repos\LogItPe21\Week16-Santa-Clause-is-Coming\Week16-Santa-Clause-is-Coming\obj\Debug\Week16_Santa_Clause_is_Coming.Properties.Resources.resources
+C:\Users\opilane\source\repos\LogItPe21\Week16-Santa-Clause-is-Coming\Week16-Santa-Clause-is-Coming\obj\Debug\Week16-Santa-Clause-is-Coming.csproj.GenerateResource.cache
+C:\Users\opilane\source\repos\LogItPe21\Week16-Santa-Clause-is-Coming\Week16-Santa-Clause-is-Coming\obj\Debug\Week16-Santa-Clause-is-Coming.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\LogItPe21\Week16-Santa-Clause-is-Coming\Week16-Santa-Clause-is-Coming\obj\Debug\Week16-Santa-Clause-is-Coming.exe
+C:\Users\opilane\source\repos\LogItPe21\Week16-Santa-Clause-is-Coming\Week16-Santa-Clause-is-Coming\obj\Debug\Week16-Santa-Clause-is-Coming.pdb
